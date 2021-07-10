@@ -1,0 +1,25 @@
+3728 entries loaded.
+Starting at line 1712
+jb_chicken_island_b2: 110
+jb_autumn_v2: 115
+jb_vice_tango_final: 265
+jb_fentex_fix_hdr: 350
+jb_quake_a04d: 425
+jb_sorse_v7: 505
+ba_mlcastle_se: 980
+jb_synergy_v3e: 1105
+jb_mountaincraft_tww: 1370
+jb_pyrenees_v1_2: 1415
+jb_quad_v2: 1930
+jb_avalanche_csgo_b8c: 2390
+jb_dystopian_b6: 3375
+jb_vipinthemix_tango_final: 3435
+jb_arcade_b5: 6445
+jb_kwejsi_v5_fix: 6555
+jb_spy_vs_spy_beta7: 7315
+jb_moti2_final: 8520
+jb_sg_dojo_v5-6: 11530
+jb_minecraft_tango_v2: 11965
+jb_peanut_tango_v3: 13310
+jb_undertale_v1d: 15230
+jb_clouds_tango_v7d: 20850
