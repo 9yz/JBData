@@ -38,3 +38,6 @@ jb_undertale_v1d: 2890
 jb_clouds_tango_v7d: 3140
 ```
 - **lastWeek.txt** - Same as **lastDay.txt** but with a week instead.
+
+
+If this repo stops getting updated, my computer crashed. Message `9yz#5386` on discord.
