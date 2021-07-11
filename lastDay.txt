@@ -1,6 +1,7 @@
 3728 entries loaded.
 Starting at line 3440
 jb_synergy_v3e: 55
+jb_testa1_v3: 80
 jb_sorse_v7: 310
 jb_fentex_fix_hdr: 350
 jb_quake_a04d: 365
@@ -9,7 +10,7 @@ jb_moti2_final: 400
 jb_quad_v2: 560
 jb_kwejsi_v5_fix: 655
 jb_avalanche_csgo_b8c: 720
-jb_peanut_tango_v3: 970
+jb_peanut_tango_v3: 890
 jb_mountaincraft_tww: 1370
 jb_minecraft_tango_v2: 1750
 jb_spy_vs_spy_beta7: 1905

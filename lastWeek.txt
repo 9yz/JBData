@@ -1,5 +1,6 @@
 3728 entries loaded.
 Starting at line 1712
+jb_testa1_v3: 80
 jb_chicken_island_b2: 110
 jb_autumn_v2: 115
 jb_vice_tango_final: 265
@@ -20,6 +21,6 @@ jb_spy_vs_spy_beta7: 7315
 jb_moti2_final: 8520
 jb_sg_dojo_v5-6: 11530
 jb_minecraft_tango_v2: 11965
-jb_peanut_tango_v3: 13310
+jb_peanut_tango_v3: 13230
 jb_undertale_v1d: 15230
 jb_clouds_tango_v7d: 20850
