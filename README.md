@@ -1,6 +1,9 @@
 # JBData
 This repository is automatically updated once per day with the latest data from my TangoWorldWide Jailbreak Datatracker.
 
+STATUS: 
+**NOT WORKING YET**
+
 ## Files:
 - **results.csv** - this contains all data collected condensed into an easy-to-use CSV file. Great for analysis, graphing, tracking playtimes, and more. Data is collected every 5 minutes from the gameME API. First row is a header, rest is data. Ex.
 ```
