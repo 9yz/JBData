@@ -1,6 +1,8 @@
 # JBData
 This repository is automatically updated once per day with the latest data from my TangoWorldWide Jailbreak Datatracker.
 
+[How Everything Works](https://github.com/9yz/JBData/blob/main/how_everything_works.md)
+
 STATUS: 
 **NOT WORKING YET**
 
